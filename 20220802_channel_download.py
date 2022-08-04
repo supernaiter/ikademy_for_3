@@ -43,7 +43,6 @@ parser.add_argument('--channel_id',help='channel_id')
 
 args = parser.parse_args()
 
-#APIKEY = 'AIzaSyC28X2AoommpY72EYbjajG66WBaOyCSSBk'
 #channel_id = 'UC4BQjeEH7-iUqUbyYVDYtsg'
 
 
